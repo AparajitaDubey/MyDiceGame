@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyDice</string>
+    <string name="button" />
+    <string name="button_start">Start Playing</string>
+    <string name="welcome">Welcome to MyDice...Start Playing!</string>
+    <string name="msg">Click on Roll Dices for computer to play!!!</string>
+    <string name="play">Play!!!</string>
+    <string name="textMsgUser">Its your turn to play!</string>
+    <string name="textMsgPlayer">Select number and click on Play</string>
+    <string-array name="numbers">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    />
+</resources>
